@@ -1,0 +1,1 @@
+Scrapes wikipedia for localizations of ISO-3166-1 country codes and writes a JSON file for German and French.
